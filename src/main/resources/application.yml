@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: us-west-2
+      auto: false
+    credentials:
+      accessKey: AKIA2PLN3JT5CSU22TRR
+      secretKey: 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
+    end-point:
+      uri: https://sqs.us-west-2.amazonaws.com/720174271738/MyFirstQueue
